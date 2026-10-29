@@ -1,0 +1,46 @@
+export const siteConfig = {
+  brand: {
+    name: 'Dalu Flooring',
+    wordmark: 'Dalu',
+    submark: 'Flooring',
+    tagline: 'Inspired by Nature, Perfected by Living.',
+    established: 2012,
+  },
+  theme: {
+    mainColor: '#3d2b1f',
+    primaryHover: '#2b1e15',
+    bgColor: '#E8E6DC',
+    surfaceColor: '#FAF7EE',
+    textMain: '#231F1C',
+    textMuted: '#737063',
+    borderColor: '#DFDBCB',
+  },
+  hero: {
+    headlineLine1: 'Inspired by Nature,',
+    headlineLine2Prefix: 'Perfected by ',
+    headlineLine2Italic: 'Living.',
+    spacesTags: 'LIVING / SHOPPING / WORKING',
+    description: 'Serving residential and commercial spaces across the UK and internationally with architectural flooring solutions that last.',
+    ctaPrimary: 'Book a Free Quote',
+    ctaSecondary: 'Learn more about us',
+  },
+  currency: {
+    symbol: '£',
+    unit: '/m²',
+    taxNote: '(ex. VAT)',
+    position: 'before',
+  },
+  contact: {
+    phone: '+44 20 7946 0912',
+    phoneDisplay: '+44 (0) 20 7946 0912',
+    email: 'concierge@daluflooring.com',
+    whatsapp: '442079460912',
+    address: '14 Berkeley Square, Mayfair, London W1J 6BQ',
+    hours: 'Monday – Saturday: 09:00 – 18:00 (Private viewings by appointment)',
+  },
+  socials: [
+    { name: 'Twitter', url: 'https://twitter.com' },
+    { name: 'Youtube', url: 'https://youtube.com' },
+    { name: 'Instagram', url: 'https://instagram.com' },
+  ],
+};
